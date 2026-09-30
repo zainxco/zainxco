@@ -60,6 +60,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1500&pause=650&color=79C0FF&center=true&vCenter=true&width=760&lines=%5B+INSERT+IDEA+%5D;%5B+COMPILE+IMAGINATION+%5D;%5B+SHIP+THE+BUILD+%5D;%3E+READY+FOR+NEXT+QUEST+_" />
 
-<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/end-transmission.svg" width="900" alt="animated end transmission"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=85&pause=450&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=END+OF+TRANSMISSION;PLAYER+01+%3A+ZAIN+_" alt="typing end transmission"/>
 
 </div>
