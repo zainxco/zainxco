@@ -57,6 +57,12 @@
 │  [04] RETRO LAB       CRT portfolio + playable NES emulator              │
 │       JavaScript / Three.js / jsnes                                      │
 │                                                                          │
+│  [05] MATELDA         Cookies e-commerce ordering experience             │
+│       Web / Cart / Orders / Payments                                     │
+│                                                                          │
+│  [06] NAJDA           Emergency assistance system                         │
+│       Software / Operations / Assistance                                 │
+│                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
