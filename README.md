@@ -20,11 +20,21 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4200&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=190&lines=%5B+INVENTORY.EXE+%5D;%5BPY%5D+PYTHON++++%5BTS%5D+TYPESCRIPT++++%5BJS%5D+JAVASCRIPT;%5BAPI%5D+FASTAPI++++%5BDB%5D+SQLITE++++%5BGIT%5D+GITHUB+_" alt="typing inventory"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4200&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=190&lines=%5B+TECH_STACK.EXE+%5D;%5BPY%5D+PYTHON++++%5BTS%5D+TYPESCRIPT++++%5BJS%5D+JAVASCRIPT;%5BAPI%5D+FASTAPI++++%5BDB%5D+SQLITE++++%5BGIT%5D+GITHUB+_" alt="typing inventory"/>
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,fastapi,git,github,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,fastapi,nodejs,sqlite,git,github,vscode,figma,netlify,windows&theme=dark&perline=7" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FASTAPI-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/SQLITE-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/THREE.JS-0D1117?style=flat-square&logo=threedotjs&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-0D1117?style=flat-square&logo=githubactions&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/NETLIFY-0D1117?style=flat-square&logo=netlify&logoColor=58A6FF" />
+
 </div>
 
 <br/>
