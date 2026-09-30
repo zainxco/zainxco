@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/profile-terminal.svg" width="900" alt="animated Zain terminal profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=4200&pause=700&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=false&width=900&height=310&lines=%5B+ZAIN%3A%2F%2FPROFILE+%5D;%24+whoami;USER++++ZAIN++++CLASS++++SOFTWARE+DEVELOPER;STUDY++++COMPUTER+SCIENCE++++STATUS++++%5B+ONLINE+%5D;%24+cat+current_missions.txt;%3E+WEB+%2B+DESKTOP+SYSTEMS;%3E+AUTOMATION+%2F+EXPERIMENTAL+SOFTWARE;%3E+UI+%2F+PRODUCT+DESIGN;%24+echo+%22BUILD+%3E+BREAK+%3E+LEARN+%3E+REPEAT%22+_" width="900" alt="typing Zain profile"/>
 
 </div>
 
