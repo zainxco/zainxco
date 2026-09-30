@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=58A6FF&text=ZAIN.EXE&fontColor=58A6FF&fontSize=42&fontAlignY=44&desc=%5B%20PIXEL%20DEVELOPER%20SYSTEM%20%5D&descAlignY=72&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0d1117&text=ZAIN.EXE&fontColor=58A6FF&fontSize=42&fontAlignY=44&desc=%5B%20PIXEL%20DEVELOPER%20SYSTEM%20%5D&descAlignY=72&descSize=13" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1800&pause=550&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+BOOTING+SYSTEM...;%3E+HELLO%2C+I%27M+ZAIN;%3E+BUILDING+SOFTWARE+ONE+PIXEL+AT+A+TIME+_" />
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=4200&pause=700&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=false&width=900&height=310&lines=%5B+ZAIN%3A%2F%2FPROFILE+%5D;%24+whoami;USER++++ZAIN++++CLASS++++SOFTWARE+DEVELOPER;STUDY++++COMPUTER+SCIENCE++++STATUS++++%5B+ONLINE+%5D;%24+cat+current_missions.txt;%3E+WEB+%2B+DESKTOP+SYSTEMS;%3E+AUTOMATION+%2F+EXPERIMENTAL+SOFTWARE;%3E+UI+%2F+PRODUCT+DESIGN;%24+echo+%22BUILD+%3E+BREAK+%3E+LEARN+%3E+REPEAT%22+_" width="900" alt="typing Zain profile"/>
+<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/profile-terminal.svg" width="900" alt="animated Zain terminal profile"/>
 
 </div>
 
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=65&lines=%5B+CONNECT.EXE+%5D" alt="CONNECT.EXE"/>
+### `// CONNECT.EXE`
 
-<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/%5BX%5D_%40zain0basim-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" /></a>
-<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/%5BIG%5D_%40zain.basm-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" /></a>
-<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/%5BIN%5D_ZAIN_BASM-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" /></a>
+<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/X-@zain0basim-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
+<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/INSTAGRAM-@zain.basm-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" /></a>
+<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/LINKEDIN-ZAIN_BASM-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 
 </div>
 
@@ -47,10 +47,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%5B+SYSTEM_STATS+%5D" alt="SYSTEM_STATS"/>
+### `// SYSTEM_STATS`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=58A6FF&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&hide_rank=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=58A6FF&title_color=58A6FF&text_color=58A6FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <img src="https://streak-stats.demolab.com?user=zainxco&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
@@ -58,7 +58,7 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1500&pause=650&color=58A6FF&center=true&vCenter=true&width=760&lines=%5B+INSERT+IDEA+%5D;%5B+COMPILE+IMAGINATION+%5D;%5B+SHIP+THE+BUILD+%5D;%3E+READY+FOR+NEXT+QUEST+_" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1500&pause=650&color=79C0FF&center=true&vCenter=true&width=760&lines=%5B+INSERT+IDEA+%5D;%5B+COMPILE+IMAGINATION+%5D;%5B+SHIP+THE+BUILD+%5D;%3E+READY+FOR+NEXT+QUEST+_" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=90&lines=END+OF+TRANSMISSION;PLAYER+01+%3A+ZAIN+_" alt="typing end transmission"/>
 
