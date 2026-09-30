@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0d1117&text=ZAIN.EXE&fontColor=58A6FF&fontSize=42&fontAlignY=44&desc=%5B%20PIXEL%20DEVELOPER%20SYSTEM%20%5D&descAlignY=72&descSize=13" width="100%" />
+<img src="./B254DB23-ED17-4B48-89A2-58192568753D.gif" width="100%" alt="Zain pixel header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=1800&pause=550&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+BOOTING+SYSTEM...;%3E+HELLO%2C+I%27M+ZAIN;%3E+BUILDING+SOFTWARE+ONE+PIXEL+AT+A+TIME+_" />
 
