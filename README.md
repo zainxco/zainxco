@@ -42,6 +42,18 @@
 
 <br/>
 
+<div align="center">
+
+### `// CONNECT.EXE`
+
+<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/X-@zain0basim-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
+<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/INSTAGRAM-@zain.basm-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" /></a>
+<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/LINKEDIN-ZAIN_BASM-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+
+</div>
+
+<br/>
+
 ```text
 ┌────────────────────────────── QUEST_LOG.DAT ──────────────────────────────┐
 │                                                                          │
