@@ -60,10 +60,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1500&pause=650&color=79C0FF&center=true&vCenter=true&width=760&lines=%5B+INSERT+IDEA+%5D;%5B+COMPILE+IMAGINATION+%5D;%5B+SHIP+THE+BUILD+%5D;%3E+READY+FOR+NEXT+QUEST+_" />
 
-```text
-+--------------------------- END OF TRANSMISSION ---------------------------+
-|                         PLAYER 01 : ZAIN                                 |
-+--------------------------------------------------------------------------+
-```
+<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/end-transmission.svg" width="900" alt="animated end transmission"/>
 
 </div>
