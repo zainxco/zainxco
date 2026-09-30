@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/profile-terminal.svg" width="900" alt="animated Zain terminal profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=4200&pause=700&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=false&width=900&height=310&lines=%5B+ZAIN%3A%2F%2FPROFILE+%5D;%24+whoami;USER++++ZAIN++++CLASS++++SOFTWARE+DEVELOPER;STUDY++++COMPUTER+SCIENCE++++STATUS++++%5B+ONLINE+%5D;%24+cat+current_missions.txt;%3E+WEB+%2B+DESKTOP+SYSTEMS;%3E+AUTOMATION+%2F+EXPERIMENTAL+SOFTWARE;%3E+UI+%2F+PRODUCT+DESIGN;%24+echo+%22BUILD+%3E+BREAK+%3E+LEARN+%3E+REPEAT%22+_" width="900" alt="typing Zain profile"/>
 
 </div>
 
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-### `// CONNECT.EXE`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=65&lines=%5B+CONNECT.EXE+%5D" alt="CONNECT.EXE"/>
 
-<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/X-@zain0basim-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
-<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/INSTAGRAM-@zain.basm-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" /></a>
-<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/LINKEDIN-ZAIN_BASM-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/%5BX%5D_%40zain0basim-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/%5BIG%5D_%40zain.basm-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/%5BIN%5D_ZAIN_BASM-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
 
 </div>
 
@@ -47,10 +47,10 @@
 
 <div align="center">
 
-### `// SYSTEM_STATS`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%5B+SYSTEM_STATS+%5D" alt="SYSTEM_STATS"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&hide_rank=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" />
 
 <img src="https://streak-stats.demolab.com?user=zainxco&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
