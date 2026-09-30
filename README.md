@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./B254DB23-ED17-4B48-89A2-58192568753D.gif" width="100%" alt="Zain pixel header" />
+<img src="./B254DB23-ED17-4B48-89A2-58192568753D.gif" width="78%" alt="Zain pixel header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=1800&pause=550&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E+BOOTING+SYSTEM...;%3E+HELLO%2C+I%27M+ZAIN;%3E+BUILDING+SOFTWARE+ONE+PIXEL+AT+A+TIME+_" />
 
