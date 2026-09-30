@@ -6,22 +6,12 @@
 
 </div>
 
-```text
-┌────────────────────────────── ZAIN://PROFILE ──────────────────────────────┐
-│                                                                          │
-│  USER      ZAIN                    CLASS     SOFTWARE DEVELOPER            │
-│  STUDY     COMPUTER SCIENCE        STATUS    [ ONLINE ]                   │
-│                                                                          │
-│  CURRENT MISSIONS                                                        │
-│  > WEB + DESKTOP SYSTEMS                                                 │
-│  > AUTOMATION                                                            │
-│  > EXPERIMENTAL SOFTWARE                                                 │
-│  > UI / PRODUCT DESIGN                                                   │
-│                                                                          │
-│  MOTTO     BUILD > BREAK > LEARN > REPEAT                                │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/profile-terminal.svg" width="900" alt="animated Zain terminal profile"/>
+
+</div>
+
 
 <div align="center">
 
