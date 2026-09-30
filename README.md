@@ -47,10 +47,10 @@
 
 <div align="center">
 
-### `// SYSTEM_STATS`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%5B+SYSTEM_STATS+%5D" alt="SYSTEM_STATS"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainxco&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&hide_rank=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainxco&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" />
 
 <img src="https://streak-stats.demolab.com?user=zainxco&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
