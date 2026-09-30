@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=55&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=190&lines=%5B+INVENTORY.EXE+%5D;%5BPY%5D+PYTHON++++%5BTS%5D+TYPESCRIPT++++%5BJS%5D+JAVASCRIPT;%5BAPI%5D+FASTAPI++++%5BDB%5D+SQLITE++++%5BGIT%5D+GITHUB+_" alt="typing inventory"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=100&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=190&lines=%5B+INVENTORY.EXE+%5D;%5BPY%5D+PYTHON++++%5BTS%5D+TYPESCRIPT++++%5BJS%5D+JAVASCRIPT;%5BAPI%5D+FASTAPI++++%5BDB%5D+SQLITE++++%5BGIT%5D+GITHUB+_" alt="typing inventory"/>
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=38&pause=250&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=900&height=360&lines=%5B+QUEST_LOG.DAT+%5D;%5B01%5D+DENTIX+-+Dental-lab+desktop+operations+system;%3E+FastAPI+%2F+TypeScript+%2F+SQLite;%5B02%5D+NOVA+-+Natural-like+programming+language;%3E+Python+%2F+Interpreter+%2F+Language+Design;%5B03%5D+MIND+-+Deterministic+experimental+agent;%3E+Memory+%2F+Goals+%2F+Decisions+%2F+Reflection;%5B04%5D+RETRO+LAB+-+CRT+portfolio+%2B+NES+emulator;%3E+JavaScript+%2F+Three.js+%2F+jsnes;%5B05%5D+MATELDA+-+Cookies+e-commerce+experience;%3E+Web+%2F+Cart+%2F+Orders+%2F+Payments;%5B06%5D+NAJDA+-+Emergency+assistance+system;%3E+Software+%2F+Operations+%2F+Assistance+_" alt="typing quest log"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=100&pause=500&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=false&width=900&height=360&lines=%5B+QUEST_LOG.DAT+%5D;%5B01%5D+DENTIX+-+Dental-lab+desktop+operations+system;%3E+FastAPI+%2F+TypeScript+%2F+SQLite;%5B02%5D+NOVA+-+Natural-like+programming+language;%3E+Python+%2F+Interpreter+%2F+Language+Design;%5B03%5D+MIND+-+Deterministic+experimental+agent;%3E+Memory+%2F+Goals+%2F+Decisions+%2F+Reflection;%5B04%5D+RETRO+LAB+-+CRT+portfolio+%2B+NES+emulator;%3E+JavaScript+%2F+Three.js+%2F+jsnes;%5B05%5D+MATELDA+-+Cookies+e-commerce+experience;%3E+Web+%2F+Cart+%2F+Orders+%2F+Payments;%5B06%5D+NAJDA+-+Emergency+assistance+system;%3E+Software+%2F+Operations+%2F+Assistance+_" alt="typing quest log"/>
 </div>
 
 <div align="center">
@@ -60,6 +60,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1500&pause=650&color=79C0FF&center=true&vCenter=true&width=760&lines=%5B+INSERT+IDEA+%5D;%5B+COMPILE+IMAGINATION+%5D;%5B+SHIP+THE+BUILD+%5D;%3E+READY+FOR+NEXT+QUEST+_" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=85&pause=450&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=END+OF+TRANSMISSION;PLAYER+01+%3A+ZAIN+_" alt="typing end transmission"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=100&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=90&lines=END+OF+TRANSMISSION;PLAYER+01+%3A+ZAIN+_" alt="typing end transmission"/>
 
 </div>
