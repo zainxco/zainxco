@@ -31,11 +31,11 @@
 
 <div align="center">
 
-### `// CONNECT.EXE`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=65&lines=%5B+CONNECT.EXE+%5D" alt="CONNECT.EXE"/>
 
-<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/X-@zain0basim-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" /></a>
-<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/INSTAGRAM-@zain.basm-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" /></a>
-<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/LINKEDIN-ZAIN_BASM-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+<a href="https://x.com/zain0basim"><img src="https://img.shields.io/badge/%5BX%5D_%40zain0basim-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://www.instagram.com/zain.basm"><img src="https://img.shields.io/badge/%5BIG%5D_%40zain.basm-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://www.linkedin.com/in/zain-basm-257520397"><img src="https://img.shields.io/badge/%5BIN%5D_ZAIN_BASM-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" /></a>
 
 </div>
 
