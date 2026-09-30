@@ -19,12 +19,9 @@
 
 </div>
 
-```text
-╔══════════════════════════════ INVENTORY.EXE ══════════════════════════════╗
-║  [PY] PYTHON   [TS] TYPESCRIPT   [JS] JAVASCRIPT   [<>] HTML / CSS       ║
-║  [API] FASTAPI             [DB] SQLITE             [GIT] GITHUB           ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/inventory.svg" width="900" alt="pixel inventory"/>
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,fastapi,git,github,vscode&theme=dark&perline=9" />
@@ -44,29 +41,9 @@
 
 <br/>
 
-```text
-┌────────────────────────────── QUEST_LOG.DAT ──────────────────────────────┐
-│                                                                          │
-│  [01] DENTIX          Dental-lab desktop operations system               │
-│       FastAPI / TypeScript / SQLite                                      │
-│                                                                          │
-│  [02] NOVA            Experimental natural-like programming language      │
-│       Python / Interpreter / Language Design                             │
-│                                                                          │
-│  [03] AUTONOMOUS MIND Deterministic experimental agent architecture      │
-│       Memory / Goals / Decisions / Reflection                            │
-│                                                                          │
-│  [04] RETRO LAB       CRT portfolio + playable NES emulator              │
-│       JavaScript / Three.js / jsnes                                      │
-│                                                                          │
-│  [05] MATELDA         Cookies e-commerce ordering experience             │
-│       Web / Cart / Orders / Payments                                     │
-│                                                                          │
-│  [06] NAJDA           Emergency assistance system                         │
-│       Software / Operations / Assistance                                 │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/zainxco/zainxco/main/assets/quest-log.svg" width="900" alt="pixel quest log"/>
+</div>
 
 <div align="center">
 
